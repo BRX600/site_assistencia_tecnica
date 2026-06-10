@@ -108,9 +108,9 @@ section {
 
 /* FORM */
 .form-control, .form-select {
-    background-color: #374d72;
+    background-color: #ffffff;
     border: 1px solid #233554;
-    color: white;
+    color: #233554;
 }
 
 .form-control:focus, .form-select:focus {
